@@ -12,14 +12,6 @@
 ## Community and Contacts
 - <a href="https://neurosell.tech/">Our Official Website</a>;
 
-## Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Neurosell&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurosell&hide=css,html&theme=synthwave" />
-</a><br/><br/>
-
 ## Experience
 **We have a team of professionals with years of experience providing a range of products and services in the field:**<br/>
 * Web development and ecommerce products (NodeJS and C# based);
