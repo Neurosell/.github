@@ -106,6 +106,10 @@
 
 <h3 align="center">General Open Source Projects:</h3>
 
+<p align="center">
+  <a href="https://github.com/Neurosell/parallelix"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neurosell&repo=parallelix&theme=radical&hide_border=true" /> </a>
+</p>
+
 <hr>
 
 <h3 align="center">Projects we are involved in:</h3>
