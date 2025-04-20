@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we are Neurosell team</h1>
-<a href="https://neruosell.tech/"><img src="https://github.com/Neurosell/.github/blob/main/profile/gitcover.jpg?raw=true" alt="Neurosell" style="width: 100%" /></a><br>
+<a href="https://nsell.tech/"><img src="https://github.com/Neurosell/.github/blob/main/profile/gitcover.jpg?raw=true" alt="Neurosell" style="width: 100%" /></a><br>
 <h3 align="center">We create solutions for ecommerce businesses including automation, app and website development, and implement new AI tools. With love from game developers for business.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neurosell&label=Profile%20views&color=0e75b6&style=flat" alt="neurosell" /> </p>
 
@@ -126,4 +126,4 @@
 <hr>
 
 <h3 align="center">Contact Us:</h3>
-<p align="center"> <a href="https://neurosell.tech/"><img src="https://github.com/Neurosell/.github/blob/main/profile/contacts.jpg?raw=true" alt="Neurosell Contacts" style="width: 100%" /></a> </p>
+<p align="center"> <a href="https://nsell.tech/"><img src="https://github.com/Neurosell/.github/blob/main/profile/contacts.jpg?raw=true" alt="Neurosell Contacts" style="width: 100%" /></a> </p>
