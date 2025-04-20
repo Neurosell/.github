@@ -3,7 +3,7 @@
 <h3 align="center">We create solutions for ecommerce businesses including automation, app and website development, and implement new AI tools. With love from game developers for business.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neurosell&label=Profile%20views&color=0e75b6&style=flat" alt="neurosell" /> </p>
 
-<h3 align="center"><a href="https://neurosell.tech/">Visit Official Website</a></h3>
+<h3 align="center"><a href="https://nsell.tech/">Visit Official Website</a></h3>
 
 <hr>
 
