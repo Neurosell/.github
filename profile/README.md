@@ -124,10 +124,5 @@
   <a href="https://github.com/DevsDaddy/OneUIKit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevsDaddy&repo=OneUIKit&theme=radical&hide_border=true" /></a>
 </p>
 
-<hr>
-
-<h3 align="center">Contact Us:</h3>
-<p align="center"> <a href="https://nsell.tech/"><img src="https://github.com/Neurosell/.github/blob/main/profile/contacts.jpg?raw=true" alt="Neurosell Contacts" style="width: 100%" /></a> </p>
-
 <hr />
 <a href="https://nsell.tech/" target="_blank"><img src="https://github.com/Neurosell/.github/blob/main/profile/nsellfooter.png?raw=true" alt="Neurosell" style="width: 100%" /></a>
